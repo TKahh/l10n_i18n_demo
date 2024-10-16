@@ -1,0 +1,10 @@
+{
+    "@@locale": "vi",
+    "language": "Vietnam",
+    "@language": {
+        "description": "Ngôn ngữ đang chọn"
+    },
+    "helloWorld": "Chào Thế Giới",
+    "twoLanguages": "Hai ngôn ngữ được hỗ trợ",
+    "changeLanguage": "Thay đổi ngôn ngữ"
+}

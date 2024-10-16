@@ -1,0 +1,10 @@
+{
+    "@@locale": "en",
+    "language": "English",
+    "@language": {
+        "description": "Selected Language"
+    },
+    "helloWorld": "Hello World",
+    "twoLanguages": "Two Languages are supported",
+    "changeLanguage": "Change Language"
+}
